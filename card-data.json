@@ -1,0 +1,145 @@
+{
+  "version": 2,
+  "exportedAt": "2026-04-28T23:52:17.903Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Dyno-Rod Surrey",
+      "lname": null,
+      "pronouns": null,
+      "name": null,
+      "title": null,
+      "biz": null,
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "Unit 1A, The Summit Centre, Hanworth Road, Sunbury",
+      "city": "",
+      "state": "",
+      "postal": " TW16 5DB",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/J4c7yKK1/Untitled-design-2026-04-29T004627-183.png",
+      "shareImg": "https://i.postimg.cc/J4c7yKK1/Untitled-design-2026-04-29T004627-183.png",
+      "bookMarkImg": "https://i.postimg.cc/J4c7yKK1/Untitled-design-2026-04-29T004627-183.png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#f25a2f",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#f25a2f",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "call",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "01932 765 555",
+        "label": "Your Phone Number"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://www.dyno.com/local-engineers/dyno-drains-surrey",
+        "label": "Your Website URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "youtube",
+        "placeholder": "https://youtube.com/ChannelUserName",
+        "value": "https://www.youtube.com/@TheOfficialDynoRod",
+        "color": "#ff0000",
+        "label": "Your YouTube URL"
+      },
+      {
+        "name": "twitter",
+        "placeholder": "https://twitter.com/UserName",
+        "value": "https://x.com/DynoUK?ref=1e77bf36-228f-4441-81c7-99e2cfd839f1",
+        "color": "#000",
+        "label": "Your Twitter URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Read Our Reviews",
+            "link": "https://uk.trustpilot.com/review/www.dyno.com?utm_medium=Trustbox&utm_source=EmailSignature1",
+            "contentType": "customButton"
+          },
+          {
+            "label": "Review us on Trustpilot!",
+            "link": "https://uk.trustpilot.com/evaluate/www.dyno.com?locationid=00363843-f7b0-4580-8468-7a0849843e95",
+            "contentType": "customButton"
+          },
+          {
+            "name": "Trustpilot_Logo_(2022).svg (1).png",
+            "title": "Trustpilot_Logo_(2022).svg (1)",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "png",
+            "mime": "image/png",
+            "info": null,
+            "file": "media/trustpilot_logo_(2022).svg_(1).png",
+            "coverFile": null,
+            "coverExt": null
+          }
+        ]
+      }
+    ]
+  }
+}
